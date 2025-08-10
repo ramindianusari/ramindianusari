@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramindianusari" alt="ramindianusari" /></a> </p>
 
+- 🌱 I’m currently learning **nextjs**
+  
 - 📫 How to reach me **anusariramindi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
